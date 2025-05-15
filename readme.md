@@ -95,78 +95,45 @@ Sayfalara göre en çok bounce edilen ana sayfa (Homepage) olup yaklaşık 135 b
 
  cihaz türlerine bakıldığında, yaklaşık 265 bounce ile mobil cihazlar, açık ara en çok bounce edilen platform. Bu, mobilde ciddi kullanıcı deneyimi sorunları olduğunu gösteriyor. 195 bounce ile Masaüstü kullanıcılarında bounce oranı daha düşük, bu da desktop deneyiminin daha iyi olduğunu gösteriyor.
 
-GENEL BOUNCE ANALİZİ:
-Toplam ziyaret sayısı: 1000
-Bounce yapan ziyaret sayısı: 461      
-Genel bounce oranı: %46.10
+# Bounce Rate Analizi
 
+## Genel Bounce Analizi
+- Toplam Ziyaret Sayısı:** 1000  
+- Bounce Yapan Ziyaret Sayısı:** 461  
+- Genel Bounce Oranı:** %46.10
 
-SAYFALARA GÖRE DETAYLI BOUNCE ANALİZİ:
+---
 
-Homepage:
-  Toplam ziyaret: 270
-  Bounce sayısı: 134
-  Bounce oranı: %49.63
+## Sayfalara Göre Detaylı Bounce Analizi
 
-About:
-  Toplam ziyaret: 95
-  Bounce sayısı: 35
-  Bounce oranı: %36.84
+| Sayfa       | Toplam Ziyaret | Bounce Sayısı | Bounce Oranı |
+|-------------|----------------|---------------|--------------|
+| Homepage    | 270            | 134           | %49.63       |
+| About       | 95             | 35            | %36.84       |
+| Signup      | 105            | 56            | %53.33       |
+| Dashboard   | 96             | 50            | %52.08       |
+| Blog        | 205            | 89            | %43.41       |
+| Contact     | 53             | 24            | %45.28       |
+| Pricing     | 85             | 34            | %40.00       |
+| Login       | 91             | 39            | %42.86       |
 
-Signup:
-  Toplam ziyaret: 105
-  Bounce sayısı: 56
-  Bounce oranı: %53.33
+---
 
-Dashboard:
-  Toplam ziyaret: 96
-  Bounce sayısı: 50
-  Bounce oranı: %52.08
+## Cihaz Tipine Göre Detaylı Bounce Analizi
 
-Blog:
-  Toplam ziyaret: 205
-  Bounce sayısı: 89
-  Bounce oranı: %43.41
+| Cihaz Tipi | Toplam Ziyaret | Bounce Sayısı | Bounce Oranı |
+|------------|----------------|---------------|--------------|
+| Mobile     | 492            | 265           | %53.86       |
+| Desktop    | 508            | 196           | %38.58       |
 
-Contact:
-  Toplam ziyaret: 53
-  Bounce sayısı: 24
-  Bounce oranı: %45.28
+---
 
-Pricing:
-  Toplam ziyaret: 85
-  Bounce sayısı: 34
-  Bounce oranı: %40.00
+## Kullanıcı Tipine Göre Detaylı Bounce Analizi
 
-Login:
-  Toplam ziyaret: 91
-  Bounce sayısı: 39
-  Bounce oranı: %42.86
-
-CİHAZ TİPİNE GÖRE DETAYLI BOUNCE ANALİZİ:
-
-mobile:
-  Toplam ziyaret: 492
-  Bounce sayısı: 265
-  Bounce oranı: %53.86
-
-desktop:
-  Toplam ziyaret: 508
-  Bounce sayısı: 196
-  Bounce oranı: %38.58
-
-KULLANICI TİPİNE GÖRE DETAYLI BOUNCE ANALİZİ:
-
-new:
-  Toplam ziyaret: 617
-  Bounce sayısı: 328
-  Bounce oranı: %53.16
-
-returning:
-  Toplam ziyaret: 383
-  Bounce sayısı: 133
-  Bounce oranı: %34.73
-
+| Kullanıcı Tipi | Toplam Ziyaret | Bounce Sayısı | Bounce Oranı |
+|----------------|----------------|---------------|--------------|
+| New            | 617            | 328           | %53.16       |
+| Returning      | 383            | 133           | %34.73       |
 
 
 
