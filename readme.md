@@ -187,8 +187,12 @@ Korelasyon: -0.02
 Neredeyse sıfır; aralarında anlamlı bir ilişki yok. Yani, sayfa yüklenme süresi ile ziyaret süresi arasında doğrudan bir bağlantı gözlenmemiş.
 
 Korelasyonlar düşük seviyede, yani değişkenler arasında çok güçlü doğrusal ilişkiler yok. Ancak, is_bounce ile diğer iki değişken arasında beklenen yönlerde (biri negatif, biri pozitif) anlamlı zayıf ilişkiler var. Bu bulgular, bounce oranını azaltmak için ziyaret süresini artırmanın ve yüklenme süresini azaltmanın önemli olduğunu gösteriyor.Sayfa yüklenme süresinin bounce ile pozitif ilişkisi, frontend ve backend optimizasyonlarının kullanıcı tutma açısından kritik olduğunu gösteriyor.
+--------
+
+<pre><code>```python # T-testi Sonucu Test istatistiği: 5.371 P-değeri: 0.00000 # Yorum: # Yüklenme süresi ile bounce rate arasında istatistiksel olarak anlamlı bir fark vardır. # Ki-Kare Testi Sonucu Chi2 değeri: 31.582 P-değeri: 0.00000 # Yorum: # Kullanıcı tipi ile bounce rate arasında anlamlı bir ilişki vardır. ``` </code></pre>
 
 
+------
 
 
 ## 📁📊📈  Sonuç:
