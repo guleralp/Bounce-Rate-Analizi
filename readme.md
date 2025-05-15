@@ -1,4 +1,4 @@
-Proje Adı: Bounce Rate Analizi – Web Sitesinde Ziyaretçilerin Hızla Çıkmasının Nedenleri
+#Proje Adı: Bounce Rate Analizi – Web Sitesinde Ziyaretçilerin Hızla Çıkmasının Nedenleri
 
 
 "Siteye her gün yüzlerce kişi giriyor ama kimse kayıt olmuyor."
