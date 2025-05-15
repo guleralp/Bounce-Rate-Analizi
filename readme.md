@@ -95,16 +95,18 @@ Sayfalara göre en çok bounce edilen ana sayfa (Homepage) olup yaklaşık 135 b
 
  cihaz türlerine bakıldığında, yaklaşık 265 bounce ile mobil cihazlar, açık ara en çok bounce edilen platform. Bu, mobilde ciddi kullanıcı deneyimi sorunları olduğunu gösteriyor. 195 bounce ile Masaüstü kullanıcılarında bounce oranı daha düşük, bu da desktop deneyiminin daha iyi olduğunu gösteriyor.
 
-# Bounce Rate Analizi
 
-## Genel Bounce Analizi
+
+## Bounce Rate Analizi
+
+### Genel Bounce Analizi
 - Toplam Ziyaret Sayısı:** 1000  
 - Bounce Yapan Ziyaret Sayısı:** 461  
 - Genel Bounce Oranı:** %46.10
 
 ---
 
-## Sayfalara Göre Detaylı Bounce Analizi
+### Sayfalara Göre Detaylı Bounce Analizi
 
 | Sayfa       | Toplam Ziyaret | Bounce Sayısı | Bounce Oranı |
 |-------------|----------------|---------------|--------------|
@@ -119,7 +121,7 @@ Sayfalara göre en çok bounce edilen ana sayfa (Homepage) olup yaklaşık 135 b
 
 ---
 
-## Cihaz Tipine Göre Detaylı Bounce Analizi
+### Cihaz Tipine Göre Detaylı Bounce Analizi
 
 | Cihaz Tipi | Toplam Ziyaret | Bounce Sayısı | Bounce Oranı |
 |------------|----------------|---------------|--------------|
@@ -128,7 +130,7 @@ Sayfalara göre en çok bounce edilen ana sayfa (Homepage) olup yaklaşık 135 b
 
 ---
 
-## Kullanıcı Tipine Göre Detaylı Bounce Analizi
+### Kullanıcı Tipine Göre Detaylı Bounce Analizi
 
 | Kullanıcı Tipi | Toplam Ziyaret | Bounce Sayısı | Bounce Oranı |
 |----------------|----------------|---------------|--------------|
@@ -137,6 +139,9 @@ Sayfalara göre en çok bounce edilen ana sayfa (Homepage) olup yaklaşık 135 b
 
 
 
+
+
+   
 ![page_bounce_rate.png](outputs/page_bounce_rate.png)
 
 Bu grafik, her bir sayfanın bounce oranını (hemen çıkış oranı) göstermektedir. Yani, kullanıcıların o sayfaya girdikten sonra siteyi terk etme olasılıklarını karşılaştırma imkânı sunmaktadır. En yüksek bounce oranı Signup (Kayıt Ol) sayfasında görülmektedir (%53). Bu durum, kullanıcıların kayıt olma adımında siteyi terk etme eğiliminde olduğunu göstermektedir. Bunun nedeni kayıt formunun karmaşık olması, güven vermemesi ya da gereksiz bilgi talep etmesi olabilir.Dashboard ve Homepage sayfalarında da yüksek bounce oranları dikkat çekmektedir. Dashboard sayfasında kullanıcılar aradıkları bilgilere
