@@ -74,8 +74,6 @@ Veri seti aşağıdaki alanları içermektedir:
    - Yeni ve geri dönen kullanıcı davranışları
    - Kullanıcı tipi bazlı bounce oranları
 
-
-
 ## 📊 Çıktılar
 - Detaylı bounce istatistikleri
 - Görselleştirmeler ve grafikler
@@ -86,6 +84,10 @@ Veri seti aşağıdaki alanları içermektedir:
 - T-testi (Sayfa yüklenme süresi ve bounce ilişkisi)
 - Ki-kare testi (Kullanıcı tipi ve bounce ilişkisi)
 - Korelasyon analizi
+
+
+
+
 
 
 
