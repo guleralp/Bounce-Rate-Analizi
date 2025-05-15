@@ -95,7 +95,77 @@ Sayfalara göre en çok bounce edilen ana sayfa (Homepage) olup yaklaşık 135 b
 
  cihaz türlerine bakıldığında, yaklaşık 265 bounce ile mobil cihazlar, açık ara en çok bounce edilen platform. Bu, mobilde ciddi kullanıcı deneyimi sorunları olduğunu gösteriyor. 195 bounce ile Masaüstü kullanıcılarında bounce oranı daha düşük, bu da desktop deneyiminin daha iyi olduğunu gösteriyor.
 
+GENEL BOUNCE ANALİZİ:
+Toplam ziyaret sayısı: 1000
+Bounce yapan ziyaret sayısı: 461      
+Genel bounce oranı: %46.10
 
+
+SAYFALARA GÖRE DETAYLI BOUNCE ANALİZİ:
+
+Homepage:
+  Toplam ziyaret: 270
+  Bounce sayısı: 134
+  Bounce oranı: %49.63
+
+About:
+  Toplam ziyaret: 95
+  Bounce sayısı: 35
+  Bounce oranı: %36.84
+
+Signup:
+  Toplam ziyaret: 105
+  Bounce sayısı: 56
+  Bounce oranı: %53.33
+
+Dashboard:
+  Toplam ziyaret: 96
+  Bounce sayısı: 50
+  Bounce oranı: %52.08
+
+Blog:
+  Toplam ziyaret: 205
+  Bounce sayısı: 89
+  Bounce oranı: %43.41
+
+Contact:
+  Toplam ziyaret: 53
+  Bounce sayısı: 24
+  Bounce oranı: %45.28
+
+Pricing:
+  Toplam ziyaret: 85
+  Bounce sayısı: 34
+  Bounce oranı: %40.00
+
+Login:
+  Toplam ziyaret: 91
+  Bounce sayısı: 39
+  Bounce oranı: %42.86
+
+CİHAZ TİPİNE GÖRE DETAYLI BOUNCE ANALİZİ:
+
+mobile:
+  Toplam ziyaret: 492
+  Bounce sayısı: 265
+  Bounce oranı: %53.86
+
+desktop:
+  Toplam ziyaret: 508
+  Bounce sayısı: 196
+  Bounce oranı: %38.58
+
+KULLANICI TİPİNE GÖRE DETAYLI BOUNCE ANALİZİ:
+
+new:
+  Toplam ziyaret: 617
+  Bounce sayısı: 328
+  Bounce oranı: %53.16
+
+returning:
+  Toplam ziyaret: 383
+  Bounce sayısı: 133
+  Bounce oranı: %34.73
 
 
 
