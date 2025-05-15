@@ -89,9 +89,8 @@ Veri seti aşağıdaki alanları içermektedir:
 
 
 
-
-
 ![bounce_analysis.png](outputs/bounce_analysis.png)
+
 Sayfalara göre en çok bounce edilen ana sayfa (Homepage) olup yaklaşık 135 bounce ile kullanıcıların büyük bir kısmının siteye girer girmez ayrıldığını göstermektedir. Bu durum, ana sayfanın kullanıcıları yeterince yönlendiremediğini ya da ilgilerini çekmediğini düşündürebilir. İkinci sırada yaklaşık 90 bounce ile Blog sayfası yer almakta, bu da içeriklerin yeterince ilgi çekici olmadığını veya kullanıcıların aradıkları bilgileri bulamadıklarını gösterebilir. Signup sayfasında yaklaşık 56 bounce görülmekte, bu da kayıt formunun karmaşık olması, güven sorunları ya da kullanıcı dostu olmaması gibi nedenlere işaret edebilir. Dashboard sayfasında ise yaklaşık 50 bounce bulunmakta, bu sayfa kullanıcıların beklentilerini karşılamıyor veya yeterli yönlendirme sunmuyor olabilir. Login sayfası 39 bounce ile kullanıcıların giriş yaparken sorun yaşayabildiğini ya da işlemi tamamlamadan siteden ayrıldıklarını gösteriyor. About sayfasında 35, Pricing sayfasında ise 34 bounce görülmekte; bu sayfalarda da kullanıcıların yeterli bilgiye ulaşamamış ya da beklentilerini karşılamamış olabilecekleri düşünülüyor. En az bounce edilen sayfa ise Contact olup 23 bounce ile kullanıcıların bu sayfada aradıkları iletişim bilgilerine ulaştıkları anlaşılıyor.
 
  cihaz türlerine bakıldığında, yaklaşık 265 bounce ile mobil cihazlar, açık ara en çok bounce edilen platform. Bu, mobilde ciddi kullanıcı deneyimi sorunları olduğunu gösteriyor. 195 bounce ile Masaüstü kullanıcılarında bounce oranı daha düşük, bu da desktop deneyiminin daha iyi olduğunu gösteriyor.
