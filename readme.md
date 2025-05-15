@@ -140,6 +140,8 @@ Sayfalara göre en çok bounce edilen ana sayfa (Homepage) olup yaklaşık 135 b
 | Returning      | 383            | 133           | %34.73       |
 
 
+Genel olarak, sitenin bounce oranı %46.10 seviyesinde olup kabul edilebilir bir düzeydedir, ancak kullanıcı deneyimini iyileştirmeye yönelik çalışmalarda bulunulabilir. Sayfa bazında baktığımızda, en yüksek bounce oranları Signup (%53.33) ve Dashboard (%52.08) sayfalarında görülmektedir. Bu durum, kullanıcıların kayıt veya kullanım sürecinde zorlandığını ya da aradıklarını hızlıca bulamadıklarını düşündürmektedir. Ana sayfa da %49.63 bounce oranı ile dikkat çekerken, kullanıcıların ilk izlenimde siteyle yeterince etkileşime girmediği izlenimini veriyor. Cihaz bazında yapılan analizde ise mobil kullanıcıların %53.86 gibi oldukça yüksek bir oranla siteyi terk ettiğini görüyoruz. Bu durum, mobil arayüzdeki tasarım ve performans sorunlarına işaret ediyor olabilir. Masaüstü kullanıcıları ise daha düşük bir oranla (%38.58) bounce yaparak daha iyi bir sonuç gösteriyor. Bu fark, mobil optimizasyonun önceliklendirilmesi gerektiğini açıkça ortaya koyuyor. Kullanıcı tipi bazında değerlendirdiğimizde ise yeni kullanıcıların %53.16 gibi yüksek bir oranla bounce yapması, sitenin ilk defa ziyaret edenler için yeterince ikna edici veya yönlendirici olmadığını göstermektedir. Buna karşılık, geri dönen kullanıcılar %34.73 bounce oranı ile daha sadık ve etkileşimde kalma eğilimindedir. Bu durum, kullanıcıların siteye alıştıkça değer bulduklarını, fakat ilk ziyaret deneyimlerinin geliştirilmesi gerektiğini işaret ediyor.
+
 
 
 ---------
