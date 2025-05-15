@@ -213,7 +213,7 @@ Kritik Sayfalarda Kötü Kullanıcı Deneyimi:Kayıt formunun karmaşıklığı,
 
 Ziyaret Süresinin Kısalığı:kullanıcıyı sitede tutacak içerik ve etkileşim eksikliği de önemli bir problem.
 
-bunlara ek olarak başka nedenler de olabilir.Açılır Pencereler ve Rahatsız Edici Reklamlar,Dil ve İçerik Uyumsuzluğu,Teknik Hatalar ve Bozuk Linkler,Aşırı Kayıt veya Bilgi Talebi,Kötü Görsel ve Tasarım Kalitesi gibi nedenler kullanıcının siteyi terketmesine yol açıyor olabilir.
+bunlara ek olarak başka nedenler de olabilir. açılır Pencereler ve rahatsız Edici Reklamlar, dil ve içerik uyumsuzluğu, teknik hatalar ve bozuk linkler, aşırı kayıt veya bilgi talebi, kötü görsel ve tasarım kalitesi gibi nedenler kullanıcının siteyi terketmesine yol açıyor olabilir.
 
 ## Ne Yapılabilir? (Çözüm ve İyileştirme Önerileri):
 
