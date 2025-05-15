@@ -190,10 +190,14 @@ Korelasyonlar düşük seviyede, yani değişkenler arasında çok güçlü doğ
 
 --------
 
-<pre><code>```python # T-testi Sonucu Test istatistiği: 5.371 P-değeri: 0.00000 # Yorum: # Yüklenme süresi ile bounce rate arasında istatistiksel olarak anlamlı bir fark vardır. <pre><code>``# Ki-Kare Testi Sonucu Chi2 değeri: 31.582 P-değeri: 0.00000 # Yorum: # Kullanıcı tipi ile bounce rate arasında anlamlı bir ilişki vardır.`` </code></pre> ``` </code></pre>
+<pre><code>```python # T-testi Sonucu Test istatistiği: 5.371 P-değeri: 0.00000 # Yorum: # Yüklenme süresi ile bounce rate arasında istatistiksel olarak anlamlı bir fark vardır. ``` </code></pre>
 
-Yorum: # P-değeri 0.05'ten küçük olduğu için (p < 0.05), istatistiksel olarak anlamlı bir fark vardır. # Bu sonuca göre, sayfa yüklenme süresi ile bounce rate arasında anlamlı bir ilişki bulunmaktadır. # Yani, sayfa geç yüklendikçe kullanıcıların siteden hemen çıkma olasılığı artmaktadır. # Öneri: # Sayfa hızını artırmak, bounce oranını düşürmek için önemli bir adımdır. 
+<pre><code>```# Ki-Kare Testi Sonucu Chi2 değeri: 31.582 P-değeri: 0.00000 # Yorum: # Kullanıcı tipi ile bounce rate arasında anlamlı bir ilişki vardır.</pre> ``` </code></pre>
 
+
+
+ P-değeri 0.05'ten küçük olduğu için (p < 0.05), istatistiksel olarak anlamlı bir fark vardır. Bu sonuca göre, sayfa yüklenme süresi ile bounce rate arasında anlamlı bir ilişki bulunmaktadır. Yani, sayfa geç yüklendikçe kullanıcıların siteden hemen çıkma olasılığı artmaktadır.
+ Ki-Kare Testi Sonucu Chi2 değeri: 31.582 P-değeri: 0.00000  Yorum: P-değeri 0.05'ten küçük olduğu için (p < 0.05), kullanıcı tipi ile bounce rate arasında anlamlı bir ilişki vardır. Yani, kullanıcı tipi (örneğin “yeni kullanıcı” mı yoksa “geri dönen kullanıcı” mı olduğu), bir kişinin siteden hemen çıkıp çıkmamasını etkileyen bir faktördür.
 
 ------
 
