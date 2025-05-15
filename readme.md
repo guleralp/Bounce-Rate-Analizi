@@ -1,20 +1,17 @@
 Proje Adı: Bounce Rate Analizi – Web Sitesinde Ziyaretçilerin Hızla Çıkmasının Nedenleri
 
 
-İşveren (Patron):
-"Siteye her gün yüzlerce kişi giriyor ama dönüşüm yok. Neden kimse kayıt olmuyor?"
-"Pricing sayfasına girenlerin çoğu 10 saniye bile kalmadan çıkıyor. Bu normal mi?"
-"Mobilde trafik var ama hemen çıkıyorlar. Cevabın ne?"
+"Siteye her gün yüzlerce kişi giriyor ama kimse kayıt olmuyor."
+"Pricing sayfasına girenler 10 saniye içinde çıkıyor?"
+"Mobil trafiğimiz var ama hemen terk ediyorlar. Neden?"
 
-Yazılımcı olarak bu sorular bana yöneltildiğinde ilk hissettiğim şey, panikti. Ama ardından fark ettim: Bu sadece bir yazılım meselesi değil, bir kullanıcı deneyimi problemi. Ziyaretçiler gidiyor çünkü bir şey onları durduruyor, engelliyor ya da rahatsız ediyor.
-
-Ve işte bu proje böyle başladı.
+ Bu sadece yazılımla ilgili bir sorun değil, bir kullanıcı deneyimi problemi. Ziyaretçiler siteden çıkıyor çünkü bir şey onları rahatsız ediyor, engelliyor ya da tatmin etmiyor.
 
 
 ## 📊 Proje Hakkında
 Web sitesi ziyaretçi davranışlarını analiz eden ve özellikle bounce (hemen çıkış) oranlarını inceleyen bir veri analizi çalışmasıdır.Web
-sitesi yüksek trafik almasına rağmen, kullanıcılar sadece birkaç saniye içinde çıkış yapıyor. Bu analiz, kullanıcıların neden sitede kalmadığını, hangi sayfaların problemli olduğunu ve hangi cihazlarda bu durumun daha sık yaşandığını veriyle açıklamayı hedefliyor.Bu proje, sessizce çıkan kullanıcıların geride bıraktığı verilerden bir hikaye çıkardı. Her yüksek bounce oranı, kullanıcı için kötü bir deneyimin göstergesiydi.
-Bu analiz, sadece sayıları göstermek değil, o sayıların arkasındaki insanları anlamak için yapıldı.
+sitesi yüksek trafik almasına rağmen, kullanıcılar sadece birkaç saniye içinde çıkış yapıyor. Bu analiz, kullanıcıların neden sitede kalmadığını, hangi sayfaların problemli olduğunu ve hangi cihazlarda bu durumun daha sık yaşandığını veriyle açıklamayı hedefliyor.
+
 
 
 ## 🔍 Özellikler
