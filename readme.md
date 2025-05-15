@@ -225,7 +225,7 @@ Bounce oranlarını düşürmek ve kullanıcı deneyimini iyileştirmek için te
 ## 📝 Kurulum
 1. Projeyi klonlayın
 ```bash
-git clone [proje-url]
+git clone [(https://github.com/guleralp/Bounce-Rate-Analizi.git)]
 ```
 
 2. Gerekli paketleri yükleyin
@@ -244,12 +244,7 @@ python scripts/bounce_analiz.py
 - Sayfa yüklenme süresi ve bounce ilişkisi grafiği
 - Korelasyon matrisi
 
-## 🤝 Katkıda Bulunma
-1. Fork yapın
-2. Feature branch oluşturun
-3. Değişikliklerinizi commit edin
-4. Branch'inizi push edin
-5. Pull request açın
+
 
 ## 📄 Lisans
 Bu proje MIT lisansı altında lisanslanmıştır.
