@@ -97,6 +97,9 @@ Sayfalara göre en çok bounce edilen ana sayfa (Homepage) olup yaklaşık 135 b
 
 
 
+
+----------
+
 ## Bounce Rate Analizi
 
 ### Genel Bounce Analizi
@@ -104,7 +107,6 @@ Sayfalara göre en çok bounce edilen ana sayfa (Homepage) olup yaklaşık 135 b
 - Bounce Yapan Ziyaret Sayısı:** 461  
 - Genel Bounce Oranı:** %46.10
 
----
 
 ### Sayfalara Göre Detaylı Bounce Analizi
 
@@ -139,6 +141,8 @@ Sayfalara göre en çok bounce edilen ana sayfa (Homepage) olup yaklaşık 135 b
 
 
 
+
+---------
 
 
    
