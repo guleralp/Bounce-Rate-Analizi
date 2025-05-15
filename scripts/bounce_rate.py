@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-# Veriyi oku
+# Veriyi okuma:
 df = pd.read_csv('data/yeni_veri.csv')
 
 # Grafik : Sayfa bazında bounce oranı
